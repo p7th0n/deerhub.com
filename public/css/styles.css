@@ -1,5 +1,5 @@
 body {
-    background: url('{{ site.baseurl }}assets/img/DeerhubHome2.jpg');
+    background: url('{{ site.baseurl }}public/img/DeerhubHome2.jpg');
     z-index: -1;
 }
 .contact-info {
