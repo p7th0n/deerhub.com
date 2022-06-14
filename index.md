@@ -10,4 +10,4 @@ layout: default
 - The idea for Deerhub started with a project for the Wallace Deer Management Association.
 - WDMA is a group of hunters in Wallace Township, Pennsylvania.
 - Many of the township properties are over-run with white-tail deer.
-- We developed the WDMA website to help hunters and property owners coordinate hunting.
+- We developed the WDMA website to help hunters and property owners coordinate hunting, safely.
