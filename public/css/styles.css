@@ -2,7 +2,7 @@
 ---
 
 .backgroundImage {
-    background: url('{{ site.baseurl }}/public/img/DeerhubHome2.jpg') no-repeat center center fixed; 
+    background: url('{{ site.baseurl }}public/img/DeerhubHome2.jpg') no-repeat center center fixed; 
     background-size: contain; 
     height: 100%; 
     position: absolute; 
